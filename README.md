@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Smug303
+- 👀 I’m interested in anime and videogames
+- 🌱 I’m currently learning Computer Science and programming in C#
+- 💞️ Looking to work on programming for game development in the future
+- 📫 brunoedusp303@gmail.com
+- 😄 Pronouns: He/Him

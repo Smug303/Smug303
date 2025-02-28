@@ -2,3 +2,7 @@
 -  I’m currently learning Computer Science and programming in C#
 -  Looking to work on programming for game development in the future
 -  brunoedusp303@gmail.com 📬
+- oi eu sou o @Smug303
+- eu estou atualmente cursando Ciências da Computação e programando em C#
+- procurando por emprego em programação ou desenvolvimento de jogos no futuro
+- brunoedusp303@gmail.com 

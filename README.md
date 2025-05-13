@@ -1,4 +1,11 @@
--  Hi, I’m @Smug303
--  I’m currently learning Computer Science and programming in C#
--  Looking to work on programming for game development in the future
--  brunoedusp303@gmail.com 📬
+- Olá, sou Bruno Eduardo
+- Estou cursando Ciência da Computação
+- Linguagens de programação: JavaScript, C#
+- Procurando oportunidades de trabalho na área de TI, com interesse em programação para desenvolvimento de jogos
+- brunoeduardosp303@gmail.com 📬
+
+-  Hi, I’m Bruno Eduardo
+-  I’m currently studying Computer Science
+-  Programming languages: JavaScript, C#
+-  Looking for work opportunities on IT, mainly in programming for game development
+-  brunoeduardosp303@gmail.com 📬
